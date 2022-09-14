@@ -1,0 +1,1670 @@
+[
+  {
+    "review": "Delicious food and nice Chinese people! Not fancy but if you love Asian Chinese food you can’t go wrong here! Perfect spicy sisling dishes.",
+    "rating": 5,
+    "name": "Arjan Brogt",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "One of the favourite Chinese restaurants in Kyiv. Of course, food is adapted but still tastes so delicious and different than other restaurants do. Menu offers a tons of different dishes! There is no possibility to pay via credit card, but you might be able to transfer money using your banking app.",
+    "rating": 5,
+    "name": "Alexander Svizhenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "I was introduced to this place by my Chinese friends. Real Chinese people cook here. A really good price point for students and good food. Spicy, if you want it to be. My Chinese folks said, \"It's not as good as in China, but it's still good\"",
+    "rating": 4,
+    "name": "Qurratul Yeen",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "This is a nice family-style restaurant. You won't find beautiful view or cool design but the cuisine is really good. It tastes authentic and is probably very similar to what they cook in China. The prices are moderate. The portions are large, and it's usually enough to order just one meal.",
+    "rating": 4,
+    "name": "Pavel Chaiko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Great food, really tasty, Chinese chef. Large menu with a large choice of food. Very good prices. Would highly recommend. It is at the back of a building and not the clearest of signs.",
+    "rating": 5,
+    "name": "Phil Marshall",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "I have been visiting this place for three years. Typical low budget chinese restaurant. Nice fast service. Big range of choice. Reasonable price. Welcoming staff. …",
+    "rating": 5,
+    "name": "Sergii Getman",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Authentic Chinese restaurant. If you want to try real Chinese food this is the right place for you. This is the exact layout of the typical restaurant in China. Food is nice. Highly recommended.",
+    "rating": 5,
+    "name": "Denis Churyak",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Prices are are higher Than in other places like that , but dishes  are interesting",
+    "rating": 4,
+    "name": "Inna Yazy",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Got asian feeling! Amazing spicy food",
+    "rating": 4,
+    "name": "Divyanshu Sharma",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "The best spicy chicken 🐔",
+    "rating": 5,
+    "name": "ShRe Ya",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Proper chinese restaurant.\nHighly recommend!",
+    "rating": 5,
+    "name": "Mykyta Iliasov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Loved the steamed dumping 😋😋",
+    "rating": 5,
+    "name": "18 Sunikhil Nandan dansu",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "old..",
+    "rating": 2,
+    "name": "davidagency1688",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Really native Chinese experience",
+    "rating": 5,
+    "name": "Ivan Khomenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Truky chinesse place&food",
+    "rating": 5,
+    "name": "Anton Kudinov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Great food",
+    "rating": 5,
+    "name": "xUnkleZ x",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Tasty food",
+    "rating": 5,
+    "name": "Innesa Vasylkiv",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Authentic Chinese place",
+    "rating": 5,
+    "name": "Stas Gontovyi",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Awful food",
+    "rating": 1,
+    "name": "Rik Goodwin",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Настоящее китайское кафе, с ужасным запахом, грязной кхуней, приятным персоналом и нормальной едой по приемлемым ценам. Если хочется почувствовать себя вКитае, однозначно рекомендую, если хотите насладиться невероятными, экзотическими …",
+    "rating": 3,
+    "name": "Bumshi McClinton",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Delicious, normal prices, large portions, the atmosphere of China. …",
+    "rating": 5,
+    "name": "Omega",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Ну вкусно же! ) Да, не особо чисто (мягко говоря). Но любим мы это место. Вкусно и сытно. …",
+    "rating": 5,
+    "name": "Оксана Угринчук",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Такой уголок Китая в Киеве который похож на Китай китайские.\nВозможно вам покажется что тут темновато и не очень чисто, но зато вкусно, быстро и все с плиты. …",
+    "rating": 4,
+    "name": "Ashot Arutiunian",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Атмосферно, уютно и очень вкусно! Но стоит поработать над меню, добавить описание блюд\nВ остальном все отлично! …",
+    "rating": 5,
+    "name": "Mary Tatum",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Вкусно, сытно, остро, большие порции.🍜🍲⛩️\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Vika Vspominika",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Настоящий китайский ресторан. :-) \"Суп с телятиной по Сиху\" номер 705 - полный восторг! …",
+    "rating": 5,
+    "name": "Vadim Kirichko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) It is very tasty, not expensive.\nPortions are enough for 2.\nThat is, if you take a portion of soup, it will be enough for two. The same with …",
+    "rating": 5,
+    "name": "Оксана Мельник",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Если любить китайскую кухню, то отлично и вкусно\n\n(Translated by Google) …",
+    "rating": 4,
+    "name": "Наталия Возгарненна",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Okay, large portions and very tasty !!!\nA little not clean but the chef is Chinese. And cook immediately …",
+    "rating": 5,
+    "name": "Таня Костецька",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Очень вкусно, по китайски гостеприимно, быстро. Все свежее. Большой ассортимент блюд. Живая рыба. …",
+    "rating": 5,
+    "name": "Volodymyr Skakun",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "1. Очень грязно\n2. Если вы не владеете китайским вам будет трудно\n3. Долго готовят …",
+    "rating": 1,
+    "name": "Andrew Kuperman",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Аутентичная китайская кухня, вход и двор, мягко говоря, невзрачные, но атмосферный интерьер и еда позволяют оценить это на честные 5 звёзд! …",
+    "rating": 5,
+    "name": "Рендольф Картер",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Быстро вкусно недорого⁹\n\n(Translated by Google)\nFast tasty inexpensive⁹",
+    "rating": 5,
+    "name": "Александр Неверовский",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Бомба! Отличное \"семейное\" кафе, с аутентичной китайской кухней! Все как надо, без внешнего лоска, повар китаец, порции большие, еда вкуснейшая!!! До этого моим фаворитом в Киеве, был \"Жасмин\", теперь он на втором месте). …",
+    "rating": 5,
+    "name": "Вадим",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Здесь вкусно. Особенно это место понравится любителям острой еды.\nПорции просто огромные. И при этом цены вполне адекватные. …",
+    "rating": 5,
+    "name": "Иван Алексеевич",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Еда отвратная. Запах просто ужасен(пробыли в кафе не больше 20 минут,но одежда и волосы сильно провонялись). Очень грязно. Не советую …",
+    "rating": 1,
+    "name": "kator",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Был там когда на улице мороз -2°С. В помещении тоже была холодина - все до последнего посетители сидели в куртках.\nПомещение в убогом состоянии, меню - листочки в файликах, туалет - всё старое. …",
+    "rating": 2,
+    "name": "Igor Borovenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) The place itself in the sense of the restaurant is not suitable for visiting. It is more like a Soviet dining room decorated with Chinese symbols. There is a bathroom …",
+    "rating": 4,
+    "name": "Илья Девяткин",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Китайская кухня обновила интерьер. С виду неказистое. Но очень вкусно, огромные порции и умеренные цены. …",
+    "rating": 5,
+    "name": "Аля Цымбал",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) An interesting and colorful institution with huge portions at not great price. The institution is designed for students, so do not expect super service. Our favorite dishes: spicy raw potato salad, noodles with …",
+    "rating": 5,
+    "name": "Надежда Гусар",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) The kitchen is delicious, cooked very quickly. He is the cook and the owner is Chinese. In fact, the establishment is very similar to a tiny Chinese cafe like in China. The interior and appearance of the institution …",
+    "rating": 4,
+    "name": "Евгений Доманский",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Молодцы ребяа, готовят на совесть, был в Китае, стал любителем этой кухни. Так тут то же самое и еще порции большие! …",
+    "rating": 4,
+    "name": "Сергей Слепанюк",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Бомба кухня и бомба цены, пусть вас не смущает интерьер заведения, повар реальный китаец, всё вкусное и почти всё острое, порции просто мегабольшие, быстрая подача, демократичный ценник... …",
+    "rating": 5,
+    "name": "Restoration. inc",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Food like in China, I recommend unequivocally\n\n(Original) …",
+    "rating": 5,
+    "name": "Сергій Проценко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Работают китайцы, почти ничего не понимают), только одна наша женщина понимающая. В помещении не очень чисто и запах кухни сильный. Еда неплохая, на 3-ку. …",
+    "rating": 2,
+    "name": "Svetlana Sokolenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Отличная кухня и демократичные цены. Всем любителям китайской кухни рекомендую.\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Misanthrope UA",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Отличное место, цены приемлемые и готовят отлично.Повар китаец и готовит очень вкусно. Пару раз в год заезжам туда на обед. …",
+    "rating": 5,
+    "name": "stefaniia parafenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) The delicacy is unreal! One serving for two, otherwise we do not work :) …",
+    "rating": 5,
+    "name": "Oleksii Iakymov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) I come to that house to my girlfriend, she says that very often from their kitchen stinks of some dead dogs …",
+    "rating": 1,
+    "name": "Allo Redmi",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Не дорого@вкусно@сердито\n\n(Translated by Google)\nNot expensive @ delicious @ angrily",
+    "rating": 5,
+    "name": "Holy Weed",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) I put five stars for dishes, cook delicious, will not be indifferent. There are of course and disadvantages, I would like a more fresh interior and repair. There are separate rooms for a small campaign that is …",
+    "rating": 5,
+    "name": "Oleksii Nalapko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Delicious cuisine and large portions. I recommend to those who enjoy typical Chinese cuisine. …",
+    "rating": 5,
+    "name": "Illia “LimBato”",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Very tasty, large portions, friendly chef.\nThe color of China is felt. …",
+    "rating": 5,
+    "name": "Андрей Неверовський",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Хороший ресторанчик, хоть и требует ремонта. Зато большие порции и вкусные блюда. …",
+    "rating": 5,
+    "name": "Alexey Viliaev",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Настоящая китайская кухня. Очень вкусно! Однако по оформлению рестораном не назовешь,   больше похоже на столовую. …",
+    "rating": 5,
+    "name": "Евгений Нарижный",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Хорошая китайская столовая\nПросто, уютно, сытно ) …",
+    "rating": 5,
+    "name": "Serhii Boltonosov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Хорошее вкусное заведение, отлично подходит если вы просто хотите поесть! Заказывайте лапшу, она тут просто бимба! …",
+    "rating": 5,
+    "name": "Егор",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Вкусно. Но еще не все попробовал\n\n(Translated by Google)\nTasty. But I haven't tried everything yet",
+    "rating": 4,
+    "name": "Вячеслав Доленко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Incredibly delicious cuisine, but I warn you, the portions are unrealistically large. …",
+    "rating": 5,
+    "name": "Артем Колесник",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Not expensive, delicious sauces and fried carp, exotic.\n\n(Original) …",
+    "rating": 5,
+    "name": "канал 1",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Самое вкусное китайское место приема пищи для меня)\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Дмитро Горностай",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Нормальное место. Не лучшее в этой категории, но пойдет. Большие и не дорогие порции, из минусов - не совсем чисто, но это поправимо. …",
+    "rating": 4,
+    "name": "Andrii Dolz",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Очень вкусно! Большие порции! Очень приятные люди!!\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Nataliia Vlasenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) An authentic restaurant lost somewhere in the courtyards between VDNH and Vasylkivska.\nFeeding is delicious, satisfying, inexpensive and not greedy. …",
+    "rating": 5,
+    "name": "Serhii H.",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Delicious Chinese cuisine at a reasonable price\n\n(Original) …",
+    "rating": 4,
+    "name": "OLEKSII GOLIAKA",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Сидеть тут не стоит, но еда на вынос просто супер, настоящая китайская еда)\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Valeriy Edelev",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Большие порции и низкие цены, всё очень вкусно, особенно курица кунгпао\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Денис",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) очень вкусная кухня, спасибо\nReally delicious food! ! ! Thank you …",
+    "rating": 5,
+    "name": "Соня Логвинова",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Очень давнее заведение, нормальная недорогая китайская кухня. Разрешают со своим алкоголем. …",
+    "rating": 4,
+    "name": "Юрий Задачин",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Very tasty Chinese cuisine. Be sure to come here again :) Interestingly, part of the service - the Chinese. …",
+    "rating": 5,
+    "name": "Nazar Gerasymchuk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Очень вкусно, очень грязно. Хожу постоянно, ни разу не пожалел.\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Женя Рябухин",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Authentic delicious cuisine, large portions, relatively low prices nice service …",
+    "rating": 5,
+    "name": "Natalia Beloshytskaya",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Отличное место. Вкусные окунь и камбала (подают целыми, так что на компанию можно брать) …",
+    "rating": 5,
+    "name": "Marianna Zhuravlova",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Очень вкусно. Большой выбор. Огромные порции\n\n(Translated by Google)\nDelicious. Big choice. Huge portions",
+    "rating": 5,
+    "name": "Алексей Лихачев",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Вкусно, но очень острая еда ☺️\n\n(Translated by Google)\nTasty but very spicy food ☺️",
+    "rating": 4,
+    "name": "Victoriia Danilenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Невероятно вкусно и питательно, блюда сделаны людьми для людей\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Иван Сапега",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Не была,но пахнет вкусно 👍\n\n(Translated by Google)\nI haven't, but it smells good 👍",
+    "rating": 5,
+    "name": "Яна Александрова",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Натуральный уличный Китай! Мне нравится, китайские друзья хвалят, максимально приближенно к неизысканной китайской кухне …",
+    "rating": 5,
+    "name": "Сергей Голуб",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Очень вкусно! Настоящая китайская еда\n\n(Translated by Google)\nDelicious! Real chinese food",
+    "rating": 5,
+    "name": "Iulia",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Для любителей китайской кухни - это хороший недорогой вариант\n\n(Translated by Google) …",
+    "rating": 4,
+    "name": "Alexandr Androsovich",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Delicious, and large portions.\n\n(Original)\nСмачно, і великі порції.",
+    "rating": 4,
+    "name": "Sashko 5",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Very tasty. But the interior needs to be changed)\n\n(Original) …",
+    "rating": 4,
+    "name": "Олег Букрей",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Настоящая китайская кухня!!\n\n(Translated by Google)\nReal Chinese food !!",
+    "rating": 4,
+    "name": "Stas Kisilenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Large portions and very tasty. I recommend everyone.\n\n(Original) …",
+    "rating": 5,
+    "name": "Олександр Бухтій",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Настоящая китайская еда, вкусно.\n\n(Translated by Google)\nReal Chinese food, delicious.",
+    "rating": 5,
+    "name": "Dima Korol",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Аутентичная китайская забегаловка с вкусными большими блюдами но были замечены тараканы. …",
+    "rating": 2,
+    "name": "Dmitriy “Owlahk” Moshliak",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Генделык вы китайском стиле. Вкусно, но дорого.\n\n(Translated by Google) …",
+    "rating": 4,
+    "name": "Anton Avdeev",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Большие порции и реально вкусно\n\n(Translated by Google)\nLarge portions and really tasty",
+    "rating": 5,
+    "name": "Evgenia Victorovna",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Все супер\n\n(Translated by Google)\nEverything is super",
+    "rating": 4,
+    "name": "Владислав Лымарь",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Not foolproof, but great for such a place\n\n(Original) …",
+    "rating": 5,
+    "name": "Игорь Цимбаленко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Well, it could be cleaner and better\n\n(Original)\nНу могло бути чистіше і краще",
+    "rating": 3,
+    "name": "Oleksandr Kokis",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Delicious and affordable.\n\n(Original)\nСмачно і доступна ціна.",
+    "rating": 5,
+    "name": "Анна Олейник",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Очень вкусно !\n\n(Translated by Google)\nVery tasty !",
+    "rating": 5,
+    "name": "Влад",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Еда вкусная. Интерьер желает лучшего.\n\n(Translated by Google) …",
+    "rating": 3,
+    "name": "Yurii Lysenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Вкусные блюда с большими порциями\n\n(Translated by Google)\nDelicious meals with large portions",
+    "rating": 4,
+    "name": "Maxim Starykh",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Good dishes. Nice people\n\n(Original)\nГарні страви. Приємні люди",
+    "rating": 5,
+    "name": "Slava N",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Атмосферно, очень вкусная китайская кухня\n\n(Translated by Google)\nAtmospheric, delicious Chinese food",
+    "rating": 5,
+    "name": "Vlad Tenshi",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Good service, delicious food, affordable price\n\n(Original)\n服务到位，美味的食物， 实惠的价格",
+    "rating": 5,
+    "name": "Цзяжуй Лі",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Цены средние, порции огромные.\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Ihor Buravchenkov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) The most delicious food in Kiev\n\n(Original)\nНайсмачніша їжа в Києві",
+    "rating": 5,
+    "name": "Inna Danyliuk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) very good\n\n(Original)\nдуже добре",
+    "rating": 5,
+    "name": "ソーレス",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Вкусно.\n\n(Translated by Google)\nTasty.",
+    "rating": 5,
+    "name": "Валерия Федорченко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Норм ДВИЖУХи с МУСОРАМИ .. .\n\n(Translated by Google)\nNorm MOVES with GARBAGE ...",
+    "rating": 5,
+    "name": "Night Ghost",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Вкусная китайская еда\n\n(Translated by Google)\nDelicious Chinese food",
+    "rating": 5,
+    "name": "Vlad Tyazhov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Очень вкусно",
+    "rating": 5,
+    "name": "Roman Borysenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Вкусная китайская еда\n\n(Translated by Google)\nDelicious Chinese food",
+    "rating": 5,
+    "name": "Sergey Lawrinenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Atmospheric Chinese cafe\n\n(Original)\nАтмосферна китайська кафешка",
+    "rating": 5,
+    "name": "Joseph",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Саша Неверовский",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Great meal\n\n(Original)\n餐點很棒",
+    "rating": 5,
+    "name": "基輔泛舟哥",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Вкусно)\n\n(Translated by Google)\nYummy)",
+    "rating": 5,
+    "name": "[ML]Sindrey [Viktor]Velless",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) For once\n\n(Original)\nНа один раз",
+    "rating": 2,
+    "name": "Saha Bondar4uk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) For the amateur)\n\n(Original)\nНа любителя)",
+    "rating": 2,
+    "name": "Володимир Халімон",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Вкусно",
+    "rating": 5,
+    "name": "Кшиштоф Копала",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Суперместо!\n\n(Translated by Google)\nSuper place!",
+    "rating": 5,
+    "name": "Vladimir Vladimir",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Алла Переяславская",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Такое..., грязно!\n\n(Translated by Google)\nSuch ... it's dirty!",
+    "rating": 3,
+    "name": "Vitaly Muravitsky",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Good\n\n(Original)\nГуд",
+    "rating": 4,
+    "name": "Vova Petr",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Крутое место!\n\n(Translated by Google)\nCool place!",
+    "rating": 5,
+    "name": "игорь зинченко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Блюда как в Китае.\n\n(Translated by Google)\nDishes like in China.",
+    "rating": 5,
+    "name": "Oleksandr Prudkoy",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Супер!",
+    "rating": 5,
+    "name": "Вячеслав Процько",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Любимое место *\n\n(Translated by Google)\nFavorite place *",
+    "rating": 5,
+    "name": "Елена Иванова",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Закрыто )))\n\n(Translated by Google)\nClosed )))",
+    "rating": 5,
+    "name": "Николай Сыч",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Danylo Kurylo",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Юлія Вакуленко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ирина Токайчук",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Віктор Жабинець",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Volodymyr Tkhir",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Интернет магазин стройматериалов Кельма",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Andrii Pospielov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Олесь Манюк",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Яна Полонская",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ivan Dotsenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "omae wa mou shindeiru",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Максим Покачалов",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Evgen Domnenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Всеволод Брестский",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Кристина Каручек",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Dmytro Nemoga",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Андрій Чорний",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Андрій METEORA",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Илья Шершавец (G1vn)",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Falcon Dask",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Dmytro Soloviov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Наталья Чередниченко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Антон Малышев",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Олександр Василюк",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Nadezhda Goncharuk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Вей Цзян",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Павло Мовчанюк",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Настя Стебловская",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Анна Еременко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Lena Belyaeva",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Sherri Voils",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Ness Grey",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Андрей Онищук",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 1,
+    "name": "Валерия Полищук",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Dmytro Shklyarov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Vladimir S",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Arthur Stepovoy",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Максим Гончарук",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Anna",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Armen Polischuk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Станислав Кучеренко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Олег К",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Sergey Koshman",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Михаил Гречишкин",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Антон Якименко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Oleksii Furman",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Алексей Михалко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "valeriya melay",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Юра Немога",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Мария Тарганчук",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Kate Kulinich",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Влад Чернега",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Artur Joshi",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Людмила П",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Голосіївська Соціальна служба",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Татьяна Шаравар",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 1,
+    "name": "Таисия Любченко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Оксана Веселова",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ілля Трюхан",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Артем Ставенко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Настя М",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Oleksandr Demydov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Борис Азаров",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Александр Папка",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Виктор Мильгевский",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Татьяна Тарасюнь",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Oleg Samoilov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Helen Veklich",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ruslan Chezganov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Svitlana Chernii",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 1,
+    "name": "张先生",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Elina Antonova",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Olviia",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Света Корзуненко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Eugene Bilous",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Татьяна Парфенюк",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Екатерина Плахотник",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Dmitry Onischenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Zelenue Glazki",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Марина Авраменко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Дима Олейник",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "vaishnav vij",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Богдан Ганнич",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Serhii Khomutinin",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Iaroslav Tiurmenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Valeriia Merzlikina",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Michael Karlovski",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Andrew Seven",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Оксана Рудницкая",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "София Логвинова",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Катерина Науменко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Roma Kapitula",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Pasha Khomitskyi",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Катруся Конончук",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Vasyl Vasylenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Artem D",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Торт",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Anastasiya Yevtushenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Prajwal Reddy",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Богдан Копаничук",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Valery Lyatsevich",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Svetlana Grin",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Dmitry Ivashyn",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Oleksandr B",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Serhii Liaskovets",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Сергій Мозговий",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Анастасия Маевская",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Олег Борушко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "파천신군",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Zoreslav Chukhno",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 1,
+    "name": "李响",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Anna Gurina",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Olga Kunickaya",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Сергей А",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Anatoliy Demchyshyn",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Юлия Андреевна",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Serhii Khachko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Dmytro Iefimov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Daria Tanygina",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Александр Крывець",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 1,
+    "name": "Yue Shi",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 1,
+    "name": "1489Алло 1489Алло",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Михаил Шаманов",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Васілій Курасов",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ганна Ситнікова",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Алексей Борозенец",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Валентин Черешинский",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Olha Shumyvoda",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Artur Tyan",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Роман Погребняк",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Kay Kolesnyk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ира Нутченко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Vladislava Pl",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Completely Noname",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Mr.Scret TV",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Bogdan Tanygin",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Maria Andruschakevich",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "金锟",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Iren Amber",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Nadiia Klymenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Olga Iluchenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Yun Lin Van",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Виталий Бучок",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Oleh Olesk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Глеб Шолька (L.Y.N.Ь)",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Alex Alex",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Matvii Vernydub",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Александр Вдовенко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Irina Pronichkina",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ihar Zhdanovich",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Надія Мазур",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Vitalik Yatsyk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Plozhka Lozhka",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Moses Hightower",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Nikolay Slipchenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Lt. Blackwood",
+    "cat": "Chinese restaurant"
+  }
+]
