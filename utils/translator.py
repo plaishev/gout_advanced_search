@@ -17,9 +17,10 @@ for file in files:
         if "(Translated by Google)" in review_text:
             trans_by_google_idx = review_text.find("(Translated by Google)")
             cut_review_text = review_text[(trans_by_google_idx + 22) :]
-            original_idx = review_text.find("(Original)")
-            cut_review_text = cut_review_text[:original_idx]
-            review["review"] = cut_review_text
+            while "(Original)" in review_text:
+                original_idx = review_text.find("(Original)")
+                cut_review_text = cut_review_text[:original_idx]
+                review["review"] = cut_review_text
         else:
             review_text_translated = translator.translate(review_text).text
             review["review"] = review_text_translated
