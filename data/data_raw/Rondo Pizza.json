@@ -1,0 +1,1382 @@
+[
+  {
+    "review": "Простое и просторное заведение, находится в полуподвальном помещении. Пицца вкусная, свежая, заказы выполняются достаточно быстро. Средняя пицца на двух человек с безалкогольными  напитками стоит ~210 грн. (~8$). …",
+    "rating": 5,
+    "name": "Andrew Vrublevskyi",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "На мой взгляд несколько лет назад было вкуснее. Сейчас все просто и невкусно. Пицца слишком  жирная, на некачественном тесте. Квест: посмотрите на фото и найдите \"Цезарь.. …",
+    "rating": 3,
+    "name": "Павел О",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "К сожалению на заведении уже около месяца висит табличка \"Аренда\". Вероятнее всего заведение не пережило карантин. А в целом, обслуживание на 4, без изысков, но и не плохо. Кухня более менее. Нет ничего сверхъестественного, но сытно поесть …",
+    "rating": 4,
+    "name": "Сергей Мухин",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Заказывали пиццу на работу. Доставка вовремя. Из плюсов все. Пицца хуже чем в супермаркете Сильпо, а стоит в разы дороже. Тесто отвратительное, начинки мало. Не рекомендую. …",
+    "rating": 2,
+    "name": "Дмитрий Калиниченко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Продукт, который здесь выпекают, сложно назвать пиццей: тесто супер дрожжевое, на вкус как оладьи, сыр - непонятно какой, похож на самый дешевый голландский (по сорту, а не месту производства), томатный соус был где-то с краю в минимальном …",
+    "rating": 1,
+    "name": "Andy B",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Поставили машину во дворе и зашли в пиццерию со стороны стоянки, а не центрльного входа. Официантка только что не шипела, так нас хорошо встретила. Оказывается, в отдельном зале, через который мы вошли, была посиделка приближенных лиц, как …",
+    "rating": 1,
+    "name": "Oleh Hladysh",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Часто нет в наличии многих позиций, Хотели заказать супы - их не доставляют. Зачем они тогда на сайте? Десертов нет постоянно, салатов через раз. Обновите сайт с актуальными позициями. Мы долго были вашими постоянными клиентами, потому что …",
+    "rating": 1,
+    "name": "Виталий Нагорный",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Сегодня очень разочаровали. Сделали заказ, пришло подтверждение на почту. В указанное время пиццы нет. Звоним оператору - вашего заказа нигде нет, вы должны были нам перезвонить и уточнить !!!!!!!!!!!!  Заказываем повторно, курьер привозит …",
+    "rating": 1,
+    "name": "Максим Гайдар",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Пицца вкусная, ходим классом,  удобно,  что всем хватает места. Минус,  что долговато готовится пицца и официант редко подходит, на класс не хватает салфеток. А так очень даже хорошо …",
+    "rating": 5,
+    "name": "АВ2 ASTRA",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Регулярно посещаю пиццерию, что на м. Лукьяновская. За интерьер ничгео не скажу - кафе как кафе. А вот пицца - просто БОМБА, толстое тесто (я  такое люблю), масса начинки - наедаешься от пуза. Еще и с собой забираешь. Мы всегда на 2х …",
+    "rating": 5,
+    "name": "Edwine Kirkgokam",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) But the pizza we have delivered today has nothing to do with the pizza (a thick, not baked cake, with a strong odor of yeast, an incomprehensible manco sauce, a maximum of one mushroom on a large pizza and a few …",
+    "rating": 1,
+    "name": "Nina Kogut",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкусно и сравнительно недорого.\nЕсть служба доставки.\nБарная карта маленькая, но для пиццерии это и не критично. …",
+    "rating": 5,
+    "name": "I Z",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Часто беру здесь пиццу. На весь центр Киева самая вкусная. Хотя о вкусах не спорят. Сама кафешка стремный полуподвал. Но еда вкусная, и персонал приветливый. …",
+    "rating": 4,
+    "name": "Денис Добровольский",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) The interior is baroque. Tiles, tables in the Soviet dining room, tulle on the windows in the same dining room, but clean. But the choice of pizza astonished, about 50 items, delicious pizza. Prices are moderate, in …",
+    "rating": 4,
+    "name": "Ігор Поліщук",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Пицца испортилась!!! Последний раз привезли не пиццу,а кусок сырого теста который ужасно отдавал дрожжами. Овощи в начинке не первой свежести. Очень разочарованы! …",
+    "rating": 1,
+    "name": "Victori Bon",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Самая убогая пицца которую я заказывал. Кто-то знает как в Убер ИТС поставить оценку заведению? Хочу ещё там влепить единицу …",
+    "rating": 1,
+    "name": "Юрий Ноп",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Проходили тут случайно и зашли в нерабочее время. Хозяин радушный, вместо \"мы закрыты\" нормально поговорил.\nПокушать тут я так и не смогла, уже было не рабочее время, но осталось очень …",
+    "rating": 5,
+    "name": "Akilla Qoshqa",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Пиццерия, к сожалению, испортилась.\nПосле последнего посещения осталось расстройство кишечника и не самые теплые воспоминания. …",
+    "rating": 1,
+    "name": "Евгений",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "В пиццерии не была,но на дом заказываем постоянно!!!Пицца безумно вкусная!!!Самая самая вкусная!!!Операторы вежливы и внимательны! Большое Вам спасибо за великолепную пиццу и отдельное спасибо за быструю доставку! Заказываем только у …",
+    "rating": 5,
+    "name": "Ирина Струк",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Тихо, уютно и относительно всей сети Рондо - именно на лукьяновке, самая вкусная пицца. Всегда заказываю на вынос именно с этого отделения пиццерии. …",
+    "rating": 5,
+    "name": "Jackie Meleagant",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Не смотря на жутковатый интерьер который не менялся уже лет с 10 -  готовят реально вкусно. Причем на удивление неплохие суши. …",
+    "rating": 4,
+    "name": "I. V.",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Pizza is not expensive and tasty. The menu has sums myself have not tried. Minus - there is no park (ie in the yard and if there is a place), toilet female and male together, one washbasin to wash your hands …",
+    "rating": 3,
+    "name": "UKR_comics",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Самая вкусная пицца и суши в Киеве.\nУютно и тихо. Цены очень приятные.\nОбходительный персонал. …",
+    "rating": 5,
+    "name": "Алина Рожок",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Exterior is a very inconspicuous place. I found it by accident, but I'm glad I came. Cozy atmosphere, delicious food, clean hygiene, friendly and courteous staff. Very reasonable prices for such an institution in …",
+    "rating": 5,
+    "name": "arta2003",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Coffee is nasty. They brought the latte extremely hot with plastic tubes inside the cup. I baked my tongue. Water to the coffee was given from the tap yellow and smelly. The prices are normal. The interior is cozy, …",
+    "rating": 1,
+    "name": "Людмила Харчук",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкусно, сытно, не дорого - это если говорить о еде). Атмосфера - абсолютная безвкусица. Квадратура используется не рационально. Стиля ноль. Жаль( …",
+    "rating": 3,
+    "name": "Алика Гудзь",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Поставил низкую оценку так как - СКАТИЛИСЬ!!!!!!! 5 лет подряд заказыввл каждую неделю пиццу но в последний год просто скатились!!! Качество пицци ниже и ниже.... …",
+    "rating": 1,
+    "name": "Sasha Nazarevich",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкусно, но фицики дауны\n\n(Translated by Google)\nDelicious, but fitziki downs",
+    "rating": 3,
+    "name": "Остап Бондарь",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Очень милая администратор)\nМожет занять игрой ребёнка,пока родители нямают пицу.Особенно нравиться мальчикам. Трудно было сына заьрать из пицерии)) …",
+    "rating": 5,
+    "name": "Санька Сидоренко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Нормальный сервис но из-за расположения залов официант вас не видит.  Пицца и суши вкусные но дороже чем в прочих сетевых пиццериях. …",
+    "rating": 3,
+    "name": "Денис Дмитренко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Заведение просто супер)))\n\n(Translated by Google)\nThe place is just super)))",
+    "rating": 5,
+    "name": "Игорь Середюк",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "За 15 лет ничего не изменилось, только вот цены не по качеству и не по уровню заведения. Раньше это было круто для студентов, сейчас, боюсь, студенты не потянут …",
+    "rating": 2,
+    "name": "iurii Iashchenko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Очень вкусно, правда сама пиццерия мне не очень нравится, но я иду туда не за этим …",
+    "rating": 5,
+    "name": "Alexandra Ivannikova",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Заказали пиццу с телятиной.  Телятины там как и не было. Обвешивают в весе,дома переважили пиццу,вместо  820,700 грамм. …",
+    "rating": 1,
+    "name": "Алина Томчук",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Неплохо, особенно для любителей Украинизированной пиццы. Большие порции много теста. Неплохая харчевня. …",
+    "rating": 3,
+    "name": "Denis Boyko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Заказ разочаровал :( Заказали охотничью пиццу. Тесто сырое, сыр расплавился одним куском по центру, от количества масла можно было бы еще одну пиццу приготовить :(  Не рекомендую заказывать пиццу в этой пиццерии... …",
+    "rating": 1,
+    "name": "Оксана Кондрашина",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Пицца сама по себе не самая плохая, в Киеве есть и хуже, а вот с доставкой и сервисом -совсем беда, сделали заказ, доставка опоздала на  более чем на 30 мин, звоню в пиццерию- не нашли заказ и начинают в наглую доказывать что никаких …",
+    "rating": 1,
+    "name": "О З",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Обслуживание ужасное. Щедро раздаю чаевые, этим официанткам ни копейки не дал. Очень не приветливые,\nПосле выхода друг сказал что в пицце был …",
+    "rating": 1,
+    "name": "Alexy Polivany",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Pizza is delicious, especially \"Hunting\". The interior is nothing special, an ordinary pizzeria with photos of the Zawalski sisters on the walls …",
+    "rating": 4,
+    "name": "Людмила Мельник",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Такой большой выбор пиццы!!! А пицца очень вкусная!!!! Всем советую посетить это заведение или заказать с доставкой пиццу. …",
+    "rating": 5,
+    "name": "Andrew P",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Треш заведение. Цены выше среднего. Интерьер со времен начала 00 не обновляли. Очень маленькие порции. Однако пиво не разведенное. …",
+    "rating": 2,
+    "name": "Алексей Алексеев",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Очень вкусная пицца!!!! Уютная обстановка. Персонал на высоте ! Очень всем остались довольны 😊 …",
+    "rating": 5,
+    "name": "Юля Вдовенко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) I order Hawaiian pizza for UAH 250 + UAH 30 delivery !!!\nVery tasty!!! …",
+    "rating": 5,
+    "name": "Мой Хозяин",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Пицца очень вкусная и большая, интерьер слабоват. Выбор в меню большой.\n\n(Translated by Google) …",
+    "rating": 4,
+    "name": "Dmitriy Antonov",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Одна из вкуснейших пицц в городе .   Вкус детства копия пицца Везувио ))\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Igor Lazarenko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкусно. Цена доступная. Но ничего выдающегося. Оценка \"на четверочку\"\n\n(Translated by Google) …",
+    "rating": 4,
+    "name": "Илья Ванин",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Очень милое местечко. Вкусненько и хорошая обстановка. Минус только в том, что там тесновато …",
+    "rating": 4,
+    "name": "Наталья Волохова",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Пиццы подают огромные и вкусные, соотношение цена и вес на максимуме, цены не кусаются …",
+    "rating": 5,
+    "name": "Artem Poltorackiy",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Закрылись, так хоть бы на сайте написали! Сделал заказ, прождал час, перезвонил по всем телефонам и  нифига. …",
+    "rating": 1,
+    "name": "Кирилл Чирва",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Раньше это место было лучше!Сегодня ужасно:пол пиццы это хлеб,внутри волос пластмасса …",
+    "rating": 2,
+    "name": "Sans Rus DUB COMICS",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Замечательная, уютная пиццерия, доступные цены, очень вкусная пицца.\n\n(Translated by Google) …",
+    "rating": 4,
+    "name": "Олена Федченко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Очень приятный персонал,вменяемые цены и отличная кухня\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Анна Соболь",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) An ordinary pizzeria. The staff could be less relaxed))\n\n(Original) …",
+    "rating": 4,
+    "name": "Валентина Паробій",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Пиццерия с оригинальными пицами Чичолина и другими . Все без пафоса, но вкусно\n\n(Translated by Google) …",
+    "rating": 3,
+    "name": "Konstantin Novizky",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Прикольный интерьер и ламповая атмосфера.\nНа этом плюсы заканчиваются=( …",
+    "rating": 3,
+    "name": "Webmaster Mail",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкусная пицца, оригинальные рецепты, но не самый лучший сервис и интерьер.\n\n(Translated by Google) …",
+    "rating": 4,
+    "name": "Aleksandr Kuziv",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Очень вкусная пицца, а ещё очень большой выбор!\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Сергей Корольчук (KS)",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Good cozy establishment)\nHello girls)\nDelicious pizza …",
+    "rating": 5,
+    "name": "Алина Охрименко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Отношение ужасное к клиенту, а пицца хорошая\n\n(Translated by Google) …",
+    "rating": 1,
+    "name": "Sergey Polishchuk",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Заведение больше не работает. Закрылось из-за карантина.\n\n(Translated by Google) …",
+    "rating": 1,
+    "name": "Евгений",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкусная пицца. Интерьер так себе.\n\n(Translated by Google)\nTasty pizza. The interior is so-so.",
+    "rating": 4,
+    "name": "Николай Железняк",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкусная пицца...ребенку понравилось)\n\n(Translated by Google)\nTasty pizza ... the child liked it)",
+    "rating": 5,
+    "name": "Вика Рудкевич",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Официантов нужно звать когда пришол в заведение и они не спрашивают что я хочу\n\n(Translated by Google) …",
+    "rating": 1,
+    "name": "Katya Kolomiets",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Заведение испортилось . Уже не та что раньше . Наливайка стала или. Гендель\n\n(Translated by Google) …",
+    "rating": 2,
+    "name": "ALEKSANDR",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Антураж не очень. Кухня приятная\n\n(Translated by Google) …",
+    "rating": 4,
+    "name": "Tim Lavrinenko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Иногда заказываем,нам нравиться\n\n(Translated by Google)\nSometimes we order, we like",
+    "rating": 5,
+    "name": "Densa May",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Испортилась пицца, жаль была моя любимая.\n\n(Translated by Google)\nSpoiled pizza, sorry was my favorite.",
+    "rating": 1,
+    "name": "Alex P",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Хорошее место, вкусно и цена средняя\n\n(Translated by Google)\nNice place, tasty and average price",
+    "rating": 4,
+    "name": "Виталий Л",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Cheap pizza. But some of the substandard products.\n\n(Original) …",
+    "rating": 4,
+    "name": "Віктор Невідомий",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Самая вкусная пицца- это здесь!)\n\n(Translated by Google)\nThe most delicious pizza is here!)",
+    "rating": 5,
+    "name": "Dima Glushchenko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкусно все живы и сдоровы:)\n\n(Translated by Google)\nTasty everyone is alive and well :)",
+    "rating": 5,
+    "name": "Enterprise Сервис",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкусная пицца. Есть необычные.\n\n(Translated by Google)\nTasty pizza. There are unusual.",
+    "rating": 5,
+    "name": "Ирина",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Tasty, unobtrusive, inexpensive.\n\n(Original) …",
+    "rating": 5,
+    "name": "Волчецький Ігор",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Умеренные цены, вкусная пицца\n\n(Translated by Google)\nReasonable prices, delicious pizza",
+    "rating": 4,
+    "name": "Юля Зубкова",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Мне очень нравится пицца\n\n(Translated by Google)\nI really like pizza",
+    "rating": 5,
+    "name": "Александра Мазур",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Супер! Пицца самая вкусная !\n\n(Translated by Google)\nSuper! The most delicious pizza!",
+    "rating": 5,
+    "name": "Настик Ластик",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) fig pizza, I didn't like it.\n\n(Original) …",
+    "rating": 2,
+    "name": "Їжак Савко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкусно, быстро, аккуратно)\n\n(Translated by Google)\nTasty, fast, neat)",
+    "rating": 5,
+    "name": "Андрей Трушников",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Пиццу делают хорошую\n\n(Translated by Google)\nThe pizza is good",
+    "rating": 3,
+    "name": "Андрей В",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Very tasty pizza !!!\n\n(Original)\nДуже смачна піца!!!",
+    "rating": 5,
+    "name": "Надія Мозолюк",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Можно съесть вкусную пиццу.\n\n(Translated by Google)\nYou can eat delicious pizza.",
+    "rating": 4,
+    "name": "Віктор Степаненко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Very tasty pizza\n\n(Original)\nДуже смачна піца",
+    "rating": 5,
+    "name": "Анна Ляпіна",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Путешествие в 90е, но все чисто и девушки старались\n\n(Translated by Google) …",
+    "rating": 4,
+    "name": "Platon Gryshchenko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкусная пицца и солянка🤗🤗🤗\n\n(Translated by Google)\nTasty pizza and hodgepodge🤗🤗🤗",
+    "rating": 5,
+    "name": "Олександр Піскун",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Nataliia Bondarenko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Нет возможности рассчитаться банковской картой.\n\n(Translated by Google)\nThere is no way to pay by credit card.",
+    "rating": 1,
+    "name": "I S",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Так себе\n\n(Translated by Google)\nSo-so",
+    "rating": 3,
+    "name": "Meizu U20",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Liliya Sytnik",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Пица дуэт самая лучшая в мире\n\n(Translated by Google)\nPizza duet is the best in the world",
+    "rating": 3,
+    "name": "Рома Горбач",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Cheap and tasty!\n\n(Original)\nДешево і смачно!",
+    "rating": 5,
+    "name": "Марк Іванов",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Очень вкусные суши\n\n(Translated by Google)\nVery tasty sushi",
+    "rating": 4,
+    "name": "Сергей Болховитинов",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Отличная пицца\n\n(Translated by Google)\nGreat pizza",
+    "rating": 5,
+    "name": "Midgard Serpent",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Уютно,  вкусно)\n\n(Translated by Google)\nCozy, delicious)",
+    "rating": 5,
+    "name": "Юлия Недогибченко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкуснейшая пицца!\n\n(Translated by Google)\nDelicious pizza!",
+    "rating": 5,
+    "name": "Дмитрий Юрьевич",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Отлично, всем рекомендую!\n\n(Translated by Google)\nGreat, I recommend it to everyone!",
+    "rating": 5,
+    "name": "Суши Land",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Отлично!\n\n(Translated by Google)\nExcellent!",
+    "rating": 5,
+    "name": "Reg Drag",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Хорошо!\n\n(Translated by Google)\nGood!",
+    "rating": 4,
+    "name": "Дмитрий Онищенко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Пицца отменнейшая 😉\n\n(Translated by Google)\nThe pizza is superb 😉",
+    "rating": 4,
+    "name": "Vesna Krasna",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Cozy. Tasty.\n\n(Original)\nНезатишно. Несмачно.",
+    "rating": 2,
+    "name": "Sergii Oleksiienko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Уютно, прикольно....\n\n(Translated by Google)\nCozy, cool ...",
+    "rating": 4,
+    "name": "Marina Sliusar",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Cheap and tasty\n\n(Original)\nДешево і смачно",
+    "rating": 5,
+    "name": "анатолій анатолій",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Hard three\n\n(Original)\nТверда трієчка",
+    "rating": 3,
+    "name": "Сергій Каптан",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Всё вкусно!\n\n(Translated by Google)\nEverything is delicious!",
+    "rating": 5,
+    "name": "Юра WRX",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "обслуживание иногда хромает\n\n(Translated by Google)\nservice is sometimes lame",
+    "rating": 3,
+    "name": "Юрий Тарасенко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Deliciously\n\n(Original)\nСмачно",
+    "rating": 5,
+    "name": "Едуард Матвєєв",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкусная пицца\n\n(Translated by Google)\nTasty pizza",
+    "rating": 5,
+    "name": "Paul Picasso",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Супер...\n\n(Translated by Google)\nSuper...",
+    "rating": 5,
+    "name": "Александр Завальский",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкусно и дешево\n\n(Translated by Google)\nTasty and cheap",
+    "rating": 5,
+    "name": "Андрей Т",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Tasty pizza\n\n(Original)\nСмачна піцца",
+    "rating": 5,
+    "name": "Marina Vashchenko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Deliciously\n\n(Original)\nСмачно",
+    "rating": 5,
+    "name": "Едуард Матвєєв",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Обычная столовая\n\n(Translated by Google)\nRegular dining room",
+    "rating": 3,
+    "name": "Xeniya Drb",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Вкусно",
+    "rating": 5,
+    "name": "Vitaliy Sudakov",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Все понравилось :)\n\n(Translated by Google)\nAll liked it :)",
+    "rating": 5,
+    "name": "Vladislav Novak",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "слабо\n\n(Translated by Google)\nweakly",
+    "rating": 3,
+    "name": "Denis Kulygin",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Ничего особенного\n\n(Translated by Google)\nNothing special",
+    "rating": 2,
+    "name": "Константин Громов",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "(Translated by Google) Piggy pizza\n\n(Original)\nВкисная пица",
+    "rating": 5,
+    "name": "Александр Морозов",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "Не понравилось",
+    "rating": 1,
+    "name": "Стас Лосев",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 1,
+    "name": "Анна ВахонинаВ",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Сергей Савощенко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Наталиен Сулейманова",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Володимир Виноградарський",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Aleksey Mokhov",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "sega robert",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Алексей Тарасенко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Ruslan Zhenchak",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Dimpson S",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Владимир Чередник",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "маргарита марго",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Олеся Ищенко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Vyacheslav Khomenko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Олег Джежулей",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Олег Шпилюк",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Настя Вознесенская",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Inna Shevchenko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Oleg Buryak",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Евгений Агеносов",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Nataliia Nosenko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 1,
+    "name": "Василь Капущак",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Елена Шевченко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Serhii Knysh",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Вовк Александр",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Konstantin Perevozov",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Евгений Семашко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Natasha Makuha",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Александр Васильев",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Irina Goncharova",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 1,
+    "name": "Analogue Network",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Базюк Юрий",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Денис Полосков",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Данил Черненко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "The MaryGo",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Yarik Loza",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Oleksandr Koida",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Oleg Topez",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Антон Жук",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "UV Che",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Дмитрий Ватолкин",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Alex Timmi",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Любовь Ватолкина",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Артем Носенко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 1,
+    "name": "Igor Vizma",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Muhammad Qasir Shahzad",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Виктор Андреев",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Юлия Сидоренко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Славик Черненко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Александр Грицюк",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 1,
+    "name": "Галина Душина",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Serhii Lisovoi",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Wladyslaw Zabkowski",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Natali Shalak",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Сарделька с мясом",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Galaxy Samsung",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "АРТЕМ Мишин",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Oleg Boyko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Павел Ржегак",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ирина Верлюк",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Юрій Луценко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ника Кандарпа",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "SofiTV",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ярослав Голота (Boyskiy)",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Kseniya Semeshchenko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 1,
+    "name": "дмитрий клименок",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Андрей Сити",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ксения Лукашенко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Алекс Лорд",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Olexander Petrych (Jmelyck)",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Alex Kudenko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Tatyana And",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Volodymyr Lositskiy",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Anna Matviyenko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Natalia Nazarenko",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Наталия Кириченко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Vitalii Blyznuyk",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Валентин Шовкопляс",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ольга Горбань",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Юлия Шульга",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Василь Стецькович",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Allo Allo",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Наталия Курта",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Дмитрий Морозов",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 1,
+    "name": "Wiktoria Wigowska",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Anatolii Kushnir",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Ксения Семесько",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Маріна",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Алина Слободянюк",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "таня Бендюг",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Maria Golub",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Иван Иванчук",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Святослав Скачков",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Николай Еремин",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Egor Safonov",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Александр Пискун",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Наталья Мельник",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Валерий Р",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Макс Иванов",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Andrew Ch",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Hanna Umanets",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Eugene Dubodil",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Vasyl Kalimulin",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Olha",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Оля Пономаренко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Avram Tos",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Julia Kozoliy",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Віктор П",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ruslan “RuZel” BELKIN",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Валерий Сергиенко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Натка Лысенко",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Петр Голынщак",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "S G",
+    "cat": "Restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Андрей Репницкий",
+    "cat": "Restaurant"
+  }
+]

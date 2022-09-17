@@ -1,0 +1,740 @@
+[
+  {
+    "review": "Good fish and greens. No soup dumplings, but the regular ones  selection is great. 🍲 is 💰!!",
+    "rating": 5,
+    "name": "Serge Chistov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Thanks for the feedback! ❤️❤️❤️  Now we having only one traditional soup with dumplings 猪肉馄饨 .",
+    "rating": 5,
+    "name": "Sanço Panza",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "I feel in China, The chef is smart.",
+    "rating": 5,
+    "name": "Антон Богомолов",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Thank you ❤️❤️❤️",
+    "rating": 5,
+    "name": "Елена Миронова",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Tasty and not expensive",
+    "rating": 5,
+    "name": "Вячеслав Бурдюков",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you for your feedback! ❤️❤️❤️\n\n(Original)\nДякуємо за відгук! ❤️❤️❤️",
+    "rating": 3,
+    "name": "Iryna Shko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Отличное место, выбирали по отзывам место с китайской кухней и очень довольны что остановились именно на этом ресторане. Недорого, большие порции, еда очень вкусная. По вкусу блюда похожи на еду которую кушал муж пока жил в Китае, возможно, …",
+    "rating": 4,
+    "name": "Zoia",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 5,
+    "name": "Віталій Бойко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Судя по тому, что здесь висят китайцы место вкусно не только для нас но и для тех, кто действительно понимает толк в подобной кухне. Быстро, вкусно и недорого 😋 …",
+    "rating": 5,
+    "name": "Yurii Kryvenko (moro_kyiv)",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! ❤️❤️❤️\n\n(Original)\nДякуємо! ❤️❤️❤️",
+    "rating": 5,
+    "name": "yurii mytiai",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Здесь много посетителей азиатской внешности, это обычно хороший признак национальных заведений.\nЦены доступные, даже для студентов. …",
+    "rating": 5,
+    "name": "Dmytro UA",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thanks for the feedback. At the expense of heating, this issue does not depend on us. On our part, everything was done to ensure timely heating. Questions to the city authorities.\n\n(Original)\nДякуємо за відгук. На рахунок опалення це питання не залежить від нас. З нашого боку все було зроблено аби вчасно з'явилося опалення. Питання до міської влади.",
+    "rating": 5,
+    "name": "Andrii Shalamov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "всё вкусно, но курица Сян Ла была настолько острая, что не смогли доесть порцию. уже никакого удовольствия не было от еды, вкус просто не чувствовался. это не претензия, просто впечатления :) …",
+    "rating": 5,
+    "name": "Y T",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thanks for the feedback! We have authentic Chinese home cooking, so instead of chili peppers we use peppers from Sichuan Province (that's why it's so hot), but we are always ready to give in to sharpness to make you comfortable (please warn the waiter) So we are waiting for you again!\n\n(Original)\nДякуємо за відгук! У нас автентична китайська домашня кухня тому замість перцю чилі ми викорустовуємо перець з провінціїї Сичуань (тому так гостро), але ми завжди готові поступитися гостротою аби Вам було комфортно (просимо попередити офіцінта)❤️❤️❤️тому чекаємо на Вас знову!",
+    "rating": 5,
+    "name": "Евгений",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Everything was very tasty, beautifully served. The most delicious was the apple dessert, only in the photo it is not. It was cozy and quiet, despite the fact that the restaurant is in the heart of Kiev. …",
+    "rating": 5,
+    "name": "Ivan Tymoshchuk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thanks for the feedback! ❤️❤️❤️ We will be glad to see you again!\n\n(Original)\nДякуємо за відгук! ❤️❤️❤️ Будемо раді бачити Вас знову!",
+    "rating": 5,
+    "name": "Jane Kot",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Here is real Chinese cuisine. Prepared by a Chinese chef. Everything was delicious. Meals and a check for six people - in the photo. The prices are nice. I advise all connoisseurs to visit the restaurant. …",
+    "rating": 5,
+    "name": "Vlad Kucherenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you and glad to see you again ❤️❤️❤️\n\n(Original)\nДякуємо та раді бачити Вас знову ❤️❤️❤️",
+    "rating": 5,
+    "name": "Ira Melnichyk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) The place is just great! Friendly waiters, delicious, interesting and hearty meals. And Chinese vodka 55 degrees is a flight. The menu is very large as it should be in a Chinese restaurant, so you can come here often. …",
+    "rating": 2,
+    "name": "Юлик Юлик",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 5,
+    "name": "Sergey Kholmogorov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Удивили порции - большие и недорогое пиво:). Ассортимент блюд - есть что выбрать, курица в кисло-сладком соусе  понравилась! Рекомендую к посещению! …",
+    "rating": 1,
+    "name": "Veronica M",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 5,
+    "name": "Амалия М",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Шикарное заведение, которое нашёл благодаря отзывам других людей на Гугл картах. Очень вкусная кухня. Понравился салат с тофу и курочка с арахисом и остальные блюда заслуживают похвалы. Очень понравился адекватный прайс, для центра Киева. …",
+    "rating": 4,
+    "name": "Vova Mishkyn",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thanks for the feedback❤️❤️❤️ from yesterday we have Chinese tea Hainan tea Zhe Gu. We look forward to seeing you again!\n\n(Original)\nДякує за відгук❤️❤️❤️ зі вчорашнього дня в нас є китайський чай  Хайнаньский чай Чжэ Гу. Будемо раді бачити Вас знову!",
+    "rating": 5,
+    "name": "Maria Komar",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Cool authentic establishment\nDelicious food: I recommend wood mushrooms with bamboo and spring rolls. Chicken in sweet and sour and fried dumplings with shrimp also do not disappoint. …",
+    "rating": 5,
+    "name": "Руслан Квачук",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you for such a detailed response! Glad to see you again\n❤️❤️❤️\n\n(Original)\nДякуємо за такий розгорнутий відгук! Раді бачити Вас знову\n❤️❤️❤️",
+    "rating": 5,
+    "name": "Даша Шевченко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Интересное заведение. На любителя. Аутентично. Цены средние. Блюда тематические. Понравился кисло сладкий суп. Очень не обычный. Пельмени с курицей и грибами жаренные очень вкусные. Рекомендую для обеда и если вечером хочешь необычную кухню …",
+    "rating": 5,
+    "name": "Мария Петриненко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 5,
+    "name": "Олег Грейцар",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) In the kitchen, real Chinese, delicious, not so fashionable, but more authentic compared to \"Chinese hello\", 20-30% cheaper …",
+    "rating": 5,
+    "name": "Роман Легач",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you ❤️❤️❤️\n\n(Original)\nДякуємо ❤️❤️❤️",
+    "rating": 5,
+    "name": "Seunghyun Baek",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Курица и баклажаны в кисло-сладком, домашний салат, пельмени с амуром и домашняя лепёшка - ну ооочень вкусно! …",
+    "rating": 5,
+    "name": "Vladimir Furkevich",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 5,
+    "name": "Dmytro Prokopenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Quite a cozy place. Fast and polite waiters. The institution complies with the quarantine requirements and allows them only if the necessary documents are available. The cuisine is delicious. The menu includes …",
+    "rating": 5,
+    "name": "Виктория Курашова",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We try for you! ❤️❤️❤️\n\n(Original)\nДякуємо! Ми стараємося для Вас ! ❤️❤️❤️",
+    "rating": 5,
+    "name": "Natali Soloviova",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Deliciously. Affordable prices. Orders are delivered quickly.\nAuthentic Chinese cuisine and, surprisingly, a nice design of the institution …",
+    "rating": 4,
+    "name": "Светлана Лемар",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you and we look forward to meeting you, we still have something to surprise you! ❤️❤️❤️\n\n(Original)\nДякуємо та чекаємо на зустріч у нас ще є чим Вас здивувати! ❤️❤️❤️",
+    "rating": 5,
+    "name": "Сергей Солдатенков111",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Единственный плюс этого места - это большие порции. Еда невкусная, цены высокие для такого вкуса, интерьер никакой, да и на китайскую кухню еда не похожа. Чай требует отдельной оценки. За 125 грн нам принесли один цветок (похож на …",
+    "rating": 1,
+    "name": "Dmytro Matvyeyev",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thanks for the feedback! We heard you and we hope that you will give us another chance and we will definitely get better❤️❤️❤️ At the expense of tea this species (Golden Chrysanthemum) one flower per 250-300ml of water, the number of brews - no more than 4 and at a temperature not more than 80 degrees (you could see a thermos at our bar)\n\n(Original)\nДякуємо за відгук! Ми почули Вас та сподіваємось, що Ви дасте нам ще один шанс і ми обов’язково виправимось❤️❤️❤️ На рахунок чаю саме цей вид (Золота хризантема) одна квітка на 250-300мл води, кількість заварювань - не більше 4 та при температурі не більше 80 градусів (у нас на барі Ви могли бачити термос)",
+    "rating": 5,
+    "name": "Vitaliy Hristyuk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Топовое заведение на удобной локации с адекватными ценами. Блюда на столько вкусные, что хочется приходить сюда снова и снова.\nДля себя определил топ блюд: баодзы, лапша, жаренные пельмени и салат из муэра. …",
+    "rating": 5,
+    "name": "maria proshkowska",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 5,
+    "name": "Tetiana Dudarenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Настолько ужасное место, что захотелось написать отзыв и предупредить всех кто сейчас найдёт это место на гугл карте и захочет туда сходить покушать. Неделю назад с парнем гуляли вместе и решили зайти в новое место и поужинать. …",
+    "rating": 5,
+    "name": "Yevheniia Bykhovets",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thanks for the feedback! We heard from you and we hope that you will give us another chance and we will definitely get better ❤️❤️❤️\n\n(Original)\nДякуємо за відгук! Ми почули Вас та сподіваємось, що Ви дасте нам ще один шанс і ми обов’язково виправимось❤️❤️❤️",
+    "rating": 5,
+    "name": "Yaroslav Hordiyevych",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Жареные пельмени  с бараниной . Пельмени очень вкусные , никогда таких раньше не пробовала . Быстро приготовили, хотя была полная  посадка . Новогодняя атмосфера . …",
+    "rating": 5,
+    "name": "Дмитрий",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 5,
+    "name": "Vyacheslav Shestunov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "К сожалению ожидал большего. Есть места с более вкусно едой и дешевле. Много кляра (( Покупал на вынос. …",
+    "rating": 4,
+    "name": "Oleksandr Pedchenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you for your feedback! ❤️❤️❤️\n\n(Original)\nДякуємо за відгук! ❤️❤️❤️",
+    "rating": 5,
+    "name": "Anna Dziundzik",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Real Chinese cuisine. Very tasty and very democratic prices. …",
+    "rating": 5,
+    "name": "Anna Kolesnyk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you ❤️❤️❤️\n\n(Original)\nДякуємо ❤️❤️❤️",
+    "rating": 5,
+    "name": "Мария Харьковая",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Unrealistically surprised by the taste and color!\nI came here for dumplings - I did not regret it! The price tag is average, the taste is unforgettable! I advise you to visit the company, because the portions …",
+    "rating": 5,
+    "name": "Игорь Хрущ",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thanks for the feedback! ❤️❤️❤️ We will be glad to see you again!\n\n(Original)\nДякуємо за відгук ! ❤️❤️❤️ будемо раді бачити Вас знову!",
+    "rating": 4,
+    "name": "Serhio V",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Food is great for those who love spicy. The waiter Karina is very attentive. You need to book a table in advance if you plan to eat on the weekend. …",
+    "rating": 1,
+    "name": "Elian Elian",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 5,
+    "name": "Михайло Воронецький",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Приятное и скромное заведение в центре Киева. Цены доступные, порции хорошие, вкусно. Смело могу рекомендовать. …",
+    "rating": 5,
+    "name": "Мария Савченко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 1,
+    "name": "Анастасия Попова",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Mega delicious)\nFried carp in the form of protein in sour-sweet sauce Squ / 松鼠 鲤鱼 / Squirrel fish in sour-sweet sauce …",
+    "rating": 5,
+    "name": "Дмитрий Кузнецов",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you ❤️❤️❤️\n\n(Original)\nДякуємо ❤️❤️❤️",
+    "rating": 5,
+    "name": "Лера Оо",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Не смотря на то что заведение находится в центре цены здесь довольно приятные. Очень понравились свиные ребра и курица под кисло-сладким соусом, так же довольно вкусное мясо под устричным соусом. Из плюсов можно принести свой алкоголь и …",
+    "rating": 5,
+    "name": "Маргарита Лукомская",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thanks for the detailed feedback ❤️❤️❤️No policy on the Cork fee account will change even when the bar opens.\n\n(Original)\nДякуємо за розгорнутий відгук ❤️❤️❤️Ні наша політика на рахунок Cork fee не зміниться навіть коли відкриється бар.",
+    "rating": 5,
+    "name": "Ramzan R",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) A Chinese restaurant that I entered without thinking while walking.\nSteamed Chinese food that doesn't look like it's in Ukraine …",
+    "rating": 5,
+    "name": "李占敏",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Thank you ! ❤️❤️❤️",
+    "rating": 5,
+    "name": "Ihor Sokhan",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Это любовь с первой пельмешки, вкуснейшие жаренные пельмени, божественный том ям, вкус словно вернулся в Китай. Буду обязательно посещать снова и снова …",
+    "rating": 5,
+    "name": "Julie Pavlova",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 5,
+    "name": "Неля Гаврильчик",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Отличное место! Еда очень вкусная. Очень приятная атмосфера и приветливые официанты. Если вы любите восточную кухню то должны обязательно зайти сюда! …",
+    "rating": 5,
+    "name": "Valentyna Filonenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 5,
+    "name": "Оксана Батюк",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Очень нравится это место!\nВкусная еда, быстрая подача, отличный персонал. …",
+    "rating": 5,
+    "name": "Ян Левитас",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! Glad to see you again ❤️❤️❤️\n\n(Original)\nДякуємо! Раді бачити Вас знову ❤️❤️❤️",
+    "rating": 5,
+    "name": "Olga",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Interesting institution, cozy interior, pleasant atmosphere, quarantine requirements. I really liked the staff - polite and positive girls. The dishes are delicious, the portions are huge, the prices are reasonable. …",
+    "rating": 5,
+    "name": "Стас Колыхалов",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 5,
+    "name": "Андрей Тевкун",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Solid four, very tasty, but only the first 80% of the dish, then a little starting to get bored …",
+    "rating": 5,
+    "name": "Yaroslava Moroz",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thanks for the feedback! ❤️❤️❤️ Every week we add new positions. You can learn more from the waiter.\n\n(Original)\nДякуємо за відгук! ❤️❤️❤️ Кожного тижня ми додаємо нові позиції. Більше можете дізнатися у офіціанта.",
+    "rating": 5,
+    "name": "Andrew Skoryk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Очень вкусно, прекрасный персонал и обслуживание, рекомендую всем друзьям и знакомы. Спасибо за вашу работу. …",
+    "rating": 5,
+    "name": "xoppepop Nyarlathotepovich",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you for your feedback! ❤️❤️❤️\n\n(Original)\nДякуємо за відгук! ❤️❤️❤️",
+    "rating": 5,
+    "name": "Евгений Самохвалов",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "обычное место с посредственным интерьером, самой обычный едой (от китайской тут только название) и ужасным сервисом;\nв общем - кто хочет покушать китайской еды- выберите другое место …",
+    "rating": 5,
+    "name": "владимир курашов",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you for your feedback! Could you write to us in more detail in the mail that you did not like - mmargolikk@gmail.com. We will make every effort to change your mind.\n\n(Original)\nДякуємо вам за відгук! Чи не могли б більш докладніше написати нам на пошту, що не сподобалося - mmargolikk@gmail.com . Ми докладемо всіх зусиль для того, щоб Ваша думка змінилася.",
+    "rating": 5,
+    "name": "Дмитрий Сварог",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Very tasty, not worse than Jasmine, but the restaurant itself looks more decent. The Chinese cook, so the food is authentic. …",
+    "rating": 5,
+    "name": "Ірина Цьома",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you and look forward to seeing you again ❤️❤️❤️\n\n(Original)\nДякуємо та чекаємо на зустріч знову ❤️❤️❤️",
+    "rating": 5,
+    "name": "Nghia Nguyen",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) My favorite real Chinese cuisine of Kiev. I migrate for a couple who have been working in the kitchen in institutions for more than 10 years)) Finally, they reopened. Everything is as always great! Highly recommend! …",
+    "rating": 5,
+    "name": "дмитрий онищенко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "❤️❤️❤️",
+    "rating": 5,
+    "name": "Iurii Rudyk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Elegant cuisine, very nice staff. Be sure to order chicken in sweet and sour sauce! And yet, expect the portions to be really huge 🙃 …",
+    "rating": 5,
+    "name": "Andriy U",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you for many more dishes in sweet and sour sauce ❤️❤️❤️\n\n(Original)\nДякуємо у нас ще багато страв у кисло-солодкому соусі ❤️❤️❤️",
+    "rating": 5,
+    "name": "Елена Богатченко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) very tasty. dumplings 🥰 and\nchicken in sweet and sour is delicious. the prices are pleasing and the portion size as well …",
+    "rating": 5,
+    "name": "Mariia Varfolomeieva",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thanks for the feedback! ❤️❤️❤️ We will be glad to see you again!\n\n(Original)\nДякує за відгук! ❤️❤️❤️ Будемо раді бачити Вас знову!",
+    "rating": 5,
+    "name": "Алексей Чувахин",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Sour-spicy soup for 63 UAH is wonderful in cold weather.\n\nBut Mao on the cups, in my opinion, is superfluous. …",
+    "rating": 5,
+    "name": "Hanna Myronenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thanks for your comments, we will definitely take them into account!\n\n(Original)\nДякуємо за зауваження, ми обов’язково приймемо їх до уваги!",
+    "rating": 5,
+    "name": "Надежда Витвицкая",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Хорошее меню. Вкусные жареные пельмени и супы. Немного медленно работают при высокой загрузке в выходные. …",
+    "rating": 5,
+    "name": "Аліна Кисленко",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you, we will take into account the comments! ❤️❤️❤️\n\n(Original)\nДякуємо ми врахуємо зауваженя! ❤️❤️❤️",
+    "rating": 5,
+    "name": "Вова Черевач",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Любимое заведение с китайской кухней в Киеве! Очень прилично, хорошее обслуживание, ооочень вкусно, недорого! Что ещё нужно?)) так держите, молодцы! …",
+    "rating": 3,
+    "name": "Vsevolod Iefremov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you very much for such kind words. Let's try even harder!\n\n(Original)\nДуже вдячні вам за такі теплі слова.  Будемо старатися ще більше!",
+    "rating": 5,
+    "name": "Виктор Панин",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "В подвальном зале чуть прохладно. Эда вкусная и не острая, а соус - очень. Обслуживание нормальное. Цены - ок. …",
+    "rating": 5,
+    "name": "Катерина Лобань",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 5,
+    "name": "Svyat Poshva",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Very tasty\n\n(Original)\n非常好吃",
+    "rating": 5,
+    "name": "Igor Palivoda",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you ❤️❤️❤️\n\n(Original)\n谢谢 ❤️❤️❤️",
+    "rating": 5,
+    "name": "Julia Pysmenna",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) interesting Chinese cuisine, at very reasonable prices. The service is nice. …",
+    "rating": 5,
+    "name": "panqueen",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 5,
+    "name": "Jim Ztefflan",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Delicious food, large portions. But the hall is cold. I had to sit in jackets …",
+    "rating": 5,
+    "name": "Oleksandr Pankratov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thanks for the feedback! At the moment we are solving the problem with heating and some issues do not depend on us. We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо за відгук! На разі вирішуємо проблему з опаленням і деякі питання не залежать від нас. Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 5,
+    "name": "Maryna Rudiene",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Супер вкусно!\nРекомендую суп по сичуански и пельмени жаренные!!!\nПерсонал очень вежливый и приятный! …",
+    "rating": 5,
+    "name": "ronsamo",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you we still have something to surprise you ❤️❤️❤️\n\n(Original)\nДякуємо у нас ще є чим Вас здивувати  ❤️❤️❤️",
+    "rating": 5,
+    "name": "Dmytro Maximenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Varied menu, average prices (check for 200 UAH per person). The food is delicious and fresh. …",
+    "rating": 4,
+    "name": "Анастасия Билинкис",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be grateful if you give a more detailed response.\n\n(Original)\nДякуємо! Будемо вдячні якщо дасте більш розгорнутий відгук.",
+    "rating": 5,
+    "name": "Serhii Smetaniuk",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Ведут политику отделение одних людей от других.\nЕсть заведение Небос - они работают и приглашают ВСЕХ так как знают законы. …",
+    "rating": 5,
+    "name": "Xuan Zhao",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) We are very sorry that such a situation has occurred. But restaurants can operate in the \"yellow\" zone if all workers and visitors have a \"green\" or \"yellow\" COVID certificate, a negative PCR test or a rapid antigen test for 72 hours or a recovery certificate. You only showed qr-cod without any information and refused to scan.\n\n(Original)\nНам дуже прикро , що сталася така ситуація. Але ресторани мають змогу працювати у «жовтій» зоні за наявності у всіх робітників та відвідувачів «зеленого» або «жовтого»  COVID-сертифіката, негативного ПЛР-тесту або експрес-тесту на визначення антигена строком дії 72 години чи документа про одужання. Ви показали лише qr-cod без жодної інформації та відмовилися від сканування.",
+    "rating": 5,
+    "name": "Sviatoslav Ordukhanov",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Beautiful and soooo good place, good atmosphere, polite staff, photos will be added next time, but now I will mark \"visit again\" 🤞🤞😅👌 …",
+    "rating": 5,
+    "name": "Andrii Yudenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you very much for such kind words.\n\n(Original)\nДуже вдячні вам за такі теплі слова .",
+    "rating": 4,
+    "name": "Bohdan Kolosivskyi",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Приятная атмосфера, вкусная еда и отличный персонал\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Marina Polosenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 4,
+    "name": "Владимир",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Кафе поддерживает преступные указания кабмина, не кормят людей без штрих-кода. Разве это не сегрегация? …",
+    "rating": 5,
+    "name": "В Мих",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Please read the Resolution of the Cabinet of Ministers.\n\n(Original)\nПросимо ознайомитися з Постановою Кабінету Міністрів.",
+    "rating": 5,
+    "name": "Nataliia Voronetska",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "очень интересная кухня, попробовал впервые и теперь буду заходить частенько)\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Veronika Kovtun",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! We will be glad to see you again! ❤️❤️❤️\n\n(Original)\nДякуємо! Будемо раді бачити Вас знову!❤️❤️❤️",
+    "rating": 4,
+    "name": "Taisiia Andrieieva",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Еда вкусная ,   быстро приносят. Обслуживание хорошее.\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Володимир Виговський",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you for your feedback! ❤️❤️❤️\n\n(Original)\nДякуємо за відгук! ❤️❤️❤️",
+    "rating": 5,
+    "name": "Андрій Войтович",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Вкусная кухня, замечательный ресторан. И самое главное, готовят китайцы!!!\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Дарья Шурубура",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you we will be glad to see you again ❤️❤️❤️\n\n(Original)\nДякуємо будемо раді бачити Вас знову ❤️❤️❤️",
+    "rating": 4,
+    "name": "Максим Бонько",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Вкусные пельмени с креветками. Невозможно пройти мимо этого кафе. Рекомендую всем …",
+    "rating": 5,
+    "name": "Ruslan Karpenko",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you ❤️❤️❤️ there is also Cupid.\n\n(Original)\nДякуємо ❤️❤️❤️ також ще є Амур.",
+    "rating": 5,
+    "name": "Tetiana Zozulia",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Very tasty, good service, nice service\n\n(Original)\n非常好吃，服务好，服务漂亮",
+    "rating": 5,
+    "name": "TirisfalTrooper",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thanks! ❤️❤️❤️\n\n(Original)\n谢谢！❤️❤️❤️",
+    "rating": 5,
+    "name": "Makhanek",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) I liked the place, fast service, nice waiters.\nDelicious cuisine! …",
+    "rating": 5,
+    "name": "modern dinosaur",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you for your feedback! We look forward to seeing you again!\n\n(Original)\nДякуємо за відгук! Будемо раді бачити Вас знову!",
+    "rating": 5,
+    "name": "Максим Бывшев",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "Очень вкусно и огромные порции\nБаклажаны в остром соусе ❤️ …",
+    "rating": 5,
+    "name": "holyhols",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Thank you! ❤️❤️❤️\n\n(Original)\nДякуємо! ❤️❤️❤️",
+    "rating": 4,
+    "name": "Володимир Круг",
+    "cat": "Chinese restaurant"
+  },
+  {
+    "review": "(Translated by Google) Very tasty and atmospheric\n\n(Original)\nДуже смачно і атмосферно",
+    "rating": 5,
+    "name": "Андрей Мельник",
+    "cat": "Chinese restaurant"
+  }
+]

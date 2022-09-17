@@ -1,0 +1,482 @@
+[
+  {
+    "review": "Friendly service. Burger was good but could have been great if they would have toasted the bun a bit.",
+    "rating": 4,
+    "name": "Garrett Snook",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Nice coffee and service! Here you can buy good latte early morning, from 7am",
+    "rating": 5,
+    "name": "Юлія Янківа",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Tacos need work - specifically the tortillas - but the burgers are pretty tasty",
+    "rating": 3,
+    "name": "Joe",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Food was ok....shared the tacos and a burger.",
+    "rating": 4,
+    "name": "Jaclynn Graybill",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Super delicious coffee and burgers",
+    "rating": 5,
+    "name": "Artem Vereshchaka",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Fantastic burgers. Friendly people.",
+    "rating": 5,
+    "name": "William Wolf",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "The best burgers in the city",
+    "rating": 5,
+    "name": "Artem Polyukh",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "The best burgers in Kyiv.",
+    "rating": 5,
+    "name": "Проценко Дмитрo",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Yums",
+    "rating": 5,
+    "name": "Paul Man",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Street food.",
+    "rating": 1,
+    "name": "Vladimir Pozniy",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Лучшие бургеры,  что я пробовал в Киеве. По сочетанию цена/качество так точно (максимальный бургер 78грн)\nВсе готовится при тебе,  очень приятные ребята. Уличная еда в лучшем своему​ …",
+    "rating": 5,
+    "name": "Misha Samarskiy",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "(Translated by Google) Loved the burgers and the value for money. Tasted a cheeseburger and a burger \"Jack\". Both were wonderful. Coffee at altitude: delicious and aromatic, with perfect temperatures. I'll be back again) …",
+    "rating": 5,
+    "name": "Anzhela Kukh",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Классные такос, нежнейшая говядина. Молодцы. Но лучше бы вы и соус делали сами.\n\n(Translated by Google) …",
+    "rating": 4,
+    "name": "Татьяна Комарова",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Очень вкусные БУРГЕРЫ!!!  ЦЕНЫ ПРИЯТНО УДИВИЛИ. так держать,  удачи и процветания!!!! …",
+    "rating": 5,
+    "name": "Влад Негай",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Бургер вкусный\nМесто приятное\nПерсонал общательный и юморной …",
+    "rating": 5,
+    "name": "Nata Makarenko",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Отличные бургеры да и стоят относительно не дорого. Единственный для меня минус, это то, что работать начинают фактически лишь после 12:00. Кофе у них тоже вкусный. …",
+    "rating": 5,
+    "name": "Сергій Ангмар",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Самые приятные люди работают тут.Вкусный кофе, каждый 7 кофе или бургер бесплатно. Часто играет самый олдскульный hip hop под который приятно ждать свой заказ. …",
+    "rating": 5,
+    "name": "Владислав Бабієнко",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "(Translated by Google) Good fast food. The burgers are on a par with their price, but the staff does not serve very well. …",
+    "rating": 3,
+    "name": "Ann Lover",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Очень вкусные бургеры, цена/качество, приятное обслуживание, отличная музыка, за Coca-cola Vanilla отдельный + …",
+    "rating": 5,
+    "name": "Taras Aksynenko",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Нежнейший кофе лате. Бургер с отличным мясом и хорошим соусом. Если бы булочка была хрустящей, я бы назвала его идеальным. …",
+    "rating": 4,
+    "name": "Tetyana Rudnycka",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "(Translated by Google) excellent coffee here. always delicious, fast and hearty. guys have a smile and a fun conversation or just a funny note)) …",
+    "rating": 5,
+    "name": "Kate Poliakova",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Цены на сайте не актуальные. Бургер Вегас суховат, очень мало положили салата латук. …",
+    "rating": 3,
+    "name": "Andrey Kraszewski",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Кофе хороший. Еда свежая.  Но часто музыка громкая\n\n(Translated by Google) …",
+    "rating": 4,
+    "name": "Maks Rass",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Очень Вкусное кофе! Отличные Бургеры, и приятные бонусы для постоянных клиентов. …",
+    "rating": 5,
+    "name": "Pavel Opria",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "(Translated by Google) Very good quality coffee at affordable prices. Friendly baristas. …",
+    "rating": 5,
+    "name": "Pavlo Postnikov",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Парень , который делает кофе и принимает заказ не знает , какое должно быть отношение в сфере обслуживание к клиенту , как-то грубо все было ! Тако был невкусным ( …",
+    "rating": 1,
+    "name": "Vika Nova",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Неплохой бургер. Можно иногда съесть. Ждать 10 минут\n\n(Translated by Google) …",
+    "rating": 4,
+    "name": "Dennis Zdorovy",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Крутейшие бургеры! И персонал супер крутой!  Вдохновляющие ребята)\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Forest Tourer",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Неплохие бургеры по демократичной цене но не все всегда есть в наличии\n\n(Translated by Google) …",
+    "rating": 4,
+    "name": "rom chak",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Супер плейс! Жирные бургеры и вкусный кофе 👍\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Vitaly Verdiyev",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Покупала РАФ кофе, вкусняшка! Есть накопительная карточка для бесплатного кофе.\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Valeria Palazhchenko",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "(Translated by Google) Delicious Burgers. Al's price is too high, as for a street bead …",
+    "rating": 4,
+    "name": "Vasyl Bulka",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "У них были лучшие бургеры…\nPress F to pay respects …",
+    "rating": 5,
+    "name": "Тимофей Острогляд",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "(Translated by Google) Very tasty burgers and cookies\n\n(Original)\nДуже смачні бургери і кавп",
+    "rating": 5,
+    "name": "Олена Панічева",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Отличные бургеры, особенно Мексика и Корея!\n\n(Translated by Google) …",
+    "rating": 5,
+    "name": "Дмитрий Виленский",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Очень вкусный кофе!\n\n(Translated by Google)\nVery tasty coffee!",
+    "rating": 5,
+    "name": "Mykhailo Pidperyhora (misha.pidperyhora)",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "место переполнено пафосом и хепстерами. цены неочень\n\n(Translated by Google) …",
+    "rating": 3,
+    "name": "Константин",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Вкусно и быстро рекомендую;)\n\n(Translated by Google)\nTasty and quick recommend;)",
+    "rating": 5,
+    "name": "Николай Евдокименко",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Вкусно, быстро, есть терминал!!!\n\n(Translated by Google)\nTasty, fast, there is a terminal !!!",
+    "rating": 5,
+    "name": "Anastasiia Atamanchuk",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Очень вкусные бургеры\n\n(Translated by Google)\nVery tasty burgers",
+    "rating": 5,
+    "name": "Сергей Петрович.",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Крутейшие бургеры, кофе и музыка\n\n(Translated by Google)\nThe coolest burgers, coffee and music",
+    "rating": 5,
+    "name": "Влад Чай",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "(Translated by Google) Good and friendly staff)\n\n(Original) …",
+    "rating": 5,
+    "name": "Сан- Санич",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Отличный стрит-фуд\n\n(Translated by Google)\nGreat street food",
+    "rating": 5,
+    "name": "Alexander Marchuk",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Ужасное кофе!\n\n(Translated by Google)\nAwful coffee!",
+    "rating": 2,
+    "name": "Евгений Чернобай",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Лучший - чиз!\n\n(Translated by Google)\nThe best is chees!",
+    "rating": 5,
+    "name": "Sergey Kudryashov",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "(Translated by Google) Delicious burgers\n\n(Original)\nСмачні бургери",
+    "rating": 5,
+    "name": "Vitaliy Yakovchuk",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Отличные бургеры\n\n(Translated by Google)\nGreat burgers",
+    "rating": 4,
+    "name": "Zakhar Nikolenko",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Кофе кислющий!\n\n(Translated by Google)\nSour coffee!",
+    "rating": 3,
+    "name": "Bulkazmacom",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "Отменный кофе\n\n(Translated by Google)\nExcellent coffee",
+    "rating": 5,
+    "name": "Volodymyr Mordas",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "serhiy sydorenko",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Андрей Андрей",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Atlas Corporation",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Oleksiy Gamaliy",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Илья Анатольевич",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Easy Target",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Карина Орловская",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Phillip da Pug",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Daria Petrenko (french.daria.petrenko)",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Анна Бирюкова",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Roman Sokolovskiy",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Игорь Мищанин",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "J Martyn",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Andriy Kandziuba",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Yashwi Tripathi",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Denis O",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Roman Orishko",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Nader Farzan",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Юра Прилипко",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Дана Кошиль",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Victoria Kalenyk",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 2,
+    "name": "Константин Киричук",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Сергей Москвитин",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Игорь Сахно",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Вячеслав Дмитровский",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ivan Ishchenko",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 1,
+    "name": "Wolodya Saenq",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 4,
+    "name": "Dima Olinevych",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Ярослав Кузик",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 3,
+    "name": "Milena Sm",
+    "cat": "Hamburger restaurant"
+  },
+  {
+    "review": "",
+    "rating": 5,
+    "name": "Maryna Kotliar",
+    "cat": "Hamburger restaurant"
+  }
+]
