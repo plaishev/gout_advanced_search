@@ -6,7 +6,7 @@ import json
 
 translator = Translator()
 
-datapath = "./data/restaurants_data_v2"
+datapath = "./data/data_raw"
 files = os.listdir(datapath)
 
 
@@ -27,6 +27,4 @@ for file in files:
             review_text_translated = translator.translate(review_text).text
             review["review"] = review_text_translated
     json_file = json.dumps(review_dict_list, ensure_ascii=False).encode("utf8")
-    open(os.path.join("./data/restaurants_data_trans", file), "w").write(
-        json_file.decode()
-    )
+    open(os.path.join("./data/data_translated", file), "w").write(json_file.decode())
