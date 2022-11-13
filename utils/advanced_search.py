@@ -3,7 +3,7 @@ from scipy.spatial.distance import seuclidean
 from torch.utils.data import DataLoader
 from torch_dataset import ReviewsDataset
 
-dataset = ReviewsDataset("./data/data_translated_combined/all_reviews.json", False)
+dataset = ReviewsDataset("./data/data_translated_combined/all_reviews.json")
 sentences_dataloader = DataLoader(dataset, batch_size=256, shuffle=True)
 reviews = next(iter(sentences_dataloader))
 

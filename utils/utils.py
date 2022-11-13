@@ -1,4 +1,5 @@
 import json
+import numpy as np
 import pandas
 import os
 
@@ -13,3 +14,7 @@ def save_df_cyrillic(df: pandas.core.frame.DataFrame, path: str) -> None:
     if not os.path.exists(os.path.dirname(path)):
         os.makedirs(os.path.dirname(path))
     df.to_csv(path, encoding='utf-8-sig')
+
+
+def save_array(arr, save_path):
+    np.save(save_path, arr)

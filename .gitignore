@@ -1,1 +1,8 @@
-/advanced_search_env
+# pycache
+datasets/__pycache__/
+utils/__pycache__/advanced_search_utils.cpython-37.pyc
+utils/__pycache__/utils.cpython-37.pyc
+
+# data and embeddings
+/data
+/embeddings

@@ -1,4 +1,3 @@
-from numpy import place
 from torch.utils.data import Dataset
 import json
 
@@ -9,14 +8,15 @@ def read_json_to_dict(path: str) -> dict:
     return res_dict
 
 
-class ReviewsDataset(Dataset):
-    def __init__(self, path_to_reviews, transform):
+class GoogleReviewsDataset(Dataset):
+    def __init__(self, path_to_reviews, transform=None):
         self.reviews = path_to_reviews
+        self.all_reviews = read_json_to_dict(f"{self.reviews}")
         self.transform = transform
 
     def __len__(self):
-        return 64424
+        return len(self.all_reviews)
 
     def __getitem__(self, reviewid):
-        all_reviews = read_json_to_dict(f"{self.reviews}")[reviewid]
-        return all_reviews
+        curr_review = self.all_reviews[reviewid]
+        return curr_review['review'], curr_review['place_id'], curr_review['place_name']
